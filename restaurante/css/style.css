@@ -277,7 +277,7 @@
     height: 100px;
     background: var(--primary);
     border-radius: 50%;
-    animation: pulse-border 1500ms ease-out infinite;
+    animation: pulse-border 1500ms ease-out 3;
 }
 
 .video .btn-play:after {
